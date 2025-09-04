@@ -1,6 +1,6 @@
 # robots.txt for dim01.vercel.app
 User-agent: *
-Disallow:
+Disallow: https://dim01.vercel.app/#contact
 
 # Point crawlers to the sitemap hosted on YOUR domain
 Sitemap: https://dim01.vercel.app/sitemap.xml
